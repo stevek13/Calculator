@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  CalculatorHome.swift
 //  Calculator
 //
 //  Created by Steve Kite on 6/8/22.
@@ -7,15 +7,15 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct CalculatorHome: View {
     var body: some View {
         Text("Hello, world!")
             .padding()
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct CalculatorHome_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        CalculatorHome()
     }
 }
